@@ -6,6 +6,7 @@ namespace InstituicaoDeEnsinoTi
 {
     public abstract class Pessoa
     {
+        //Método Abstract Factory
         public string Nome { get; set; }
         public int Codigo { get; set; }
         public string Email { get; set; }
