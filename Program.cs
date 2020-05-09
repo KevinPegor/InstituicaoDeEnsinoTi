@@ -13,6 +13,7 @@ namespace InstituicaoDeEnsinoTi
             //4- Consultar estatisticas gerais
             //5- Sair
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Teste commit!");
         }
     }
 }
